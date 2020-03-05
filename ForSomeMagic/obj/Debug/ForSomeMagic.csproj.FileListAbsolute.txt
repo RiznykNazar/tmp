@@ -1,0 +1,13 @@
+C:\Users\Nriznyk\Documents\Visual Studio 2015\Projects\ForSomeMagic\ForSomeMagic\bin\Debug\ForSomeMagic.exe.config
+C:\Users\Nriznyk\Documents\Visual Studio 2015\Projects\ForSomeMagic\ForSomeMagic\bin\Debug\ForSomeMagic.exe
+C:\Users\Nriznyk\Documents\Visual Studio 2015\Projects\ForSomeMagic\ForSomeMagic\bin\Debug\ForSomeMagic.pdb
+C:\Users\Nriznyk\Documents\Visual Studio 2015\Projects\ForSomeMagic\ForSomeMagic\obj\Debug\ForSomeMagic.exe
+C:\Users\Nriznyk\Documents\Visual Studio 2015\Projects\ForSomeMagic\ForSomeMagic\obj\Debug\ForSomeMagic.pdb
+C:\Users\Nriznyk\Documents\Visual Studio 2015\Projects\ForSomeMagic\ForSomeMagic\obj\Debug\ForSomeMagic.csprojResolveAssemblyReference.cache
+D:\Downloads\ForSomeMagic2\ForSomeMagic\ForSomeMagic\bin\Debug\ForSomeMagic.exe.config
+D:\Downloads\ForSomeMagic2\ForSomeMagic\ForSomeMagic\bin\Debug\ForSomeMagic.exe
+D:\Downloads\ForSomeMagic2\ForSomeMagic\ForSomeMagic\bin\Debug\ForSomeMagic.pdb
+D:\Downloads\ForSomeMagic2\ForSomeMagic\ForSomeMagic\obj\Debug\ForSomeMagic.csprojAssemblyReference.cache
+D:\Downloads\ForSomeMagic2\ForSomeMagic\ForSomeMagic\obj\Debug\ForSomeMagic.csproj.CoreCompileInputs.cache
+D:\Downloads\ForSomeMagic2\ForSomeMagic\ForSomeMagic\obj\Debug\ForSomeMagic.exe
+D:\Downloads\ForSomeMagic2\ForSomeMagic\ForSomeMagic\obj\Debug\ForSomeMagic.pdb
